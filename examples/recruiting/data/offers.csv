@@ -1,0 +1,51 @@
+position,expected_years_of_experience,company,salary
+Data Scientist,5,Apple,$90000
+Machine Learning Engineer,4,Microsoft,$85000
+Back-end Developer,4,Google,$80000
+Front-End Developer,3,OpenAI,$75000
+Software Engineer,3,HuggingFace,$80000
+Data Scientist,5,Microsoft,$95000
+Machine Learning Engineer,4,Google,$90000
+Back-end Developer,4,Apple,$85000
+Front-End Developer,3,HuggingFace,$80000
+Software Engineer,3,OpenAI,$85000
+Data Scientist,5,Google,$100000
+Machine Learning Engineer,4,HuggingFace,$95000
+Back-end Developer,4,Microsoft,$90000
+Front-End Developer,3,Apple,$85000
+Software Engineer,3,Google,$90000
+Data Scientist,5,OpenAI,$110000
+Machine Learning Engineer,4,Apple,$105000
+Back-end Developer,4,HuggingFace,$100000
+Front-End Developer,3,Microsoft,$95000
+Software Engineer,3,Apple,$100000
+Data Scientist,5,HuggingFace,$120000
+Machine Learning Engineer,4,OpenAI,$115000
+Back-end Developer,4,Microsoft,$110000
+Front-End Developer,3,Google,$105000
+Software Engineer,3,Microsoft,$110000
+Data Scientist,5,Google,$125000
+Machine Learning Engineer,4,Apple,$120000
+Back-end Developer,4,OpenAI,$115000
+Front-End Developer,3,HuggingFace,$110000
+Software Engineer,3,Google,$115000
+Data Scientist,5,Microsoft,$130000
+Machine Learning Engineer,4,HuggingFace,$125000
+Back-end Developer,4,Google,$120000
+Front-End Developer,3,Apple,$115000
+Software Engineer,3,OpenAI,$120000
+Data Scientist,5,HuggingFace,$135000
+Machine Learning Engineer,4,Google,$130000
+Back-end Developer,4,Apple,$125000
+Front-End Developer,3,Microsoft,$120000
+Software Engineer,3,HuggingFace,$125000
+Data Scientist,5,OpenAI,$140000
+Machine Learning Engineer,4,Microsoft,$135000
+Back-end Developer,4,HuggingFace,$130000
+Front-End Developer,3,Google,$125000
+Software Engineer,3,Apple,$130000
+Data Scientist,5,Google,$145000
+Machine Learning Engineer,4,Apple,$140000
+Back-end Developer,4,OpenAI,$135000
+Front-End Developer,3,HuggingFace,$130000
+Software Engineer,3,Microsoft,$135000
